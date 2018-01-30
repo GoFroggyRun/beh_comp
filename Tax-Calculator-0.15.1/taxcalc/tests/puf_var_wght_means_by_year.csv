@@ -1,0 +1,81 @@
+,description,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+c00100,Federal AGI,   57412,   61770,   65221,   65728,   67717,   69405,   70875,   72474,   74271,   76305,   78489,   80755,   83105,   85602,   88645
+c02500,OASDI benefits in AGI,    1324,    1408,    1518,    1557,    1608,    1700,    1830,    1972,    2118,    2281,    2452,    2633,    2821,    3022,    3278
+c04470,Post-phase-out itemized deduction,    6719,    6813,    7099,    7302,    7471,    7712,    7969,    8232,    8518,    8809,    9099,    9402,    9706,   10034,   10463
+c04600,Post-phase-out personal exemption,    7272,    7292,    7339,    7389,    7341,    7467,    7603,    7749,    7906,    8073,    8239,    8410,    8582,    8759,    8958
+c04800,Federal regular taxable income,   40934,   45252,   48332,   48555,   50398,   51663,   52671,   53793,   55083,   56595,   58257,   59980,   61783,   63695,   65840
+c05200,Regular tax on taxable income,    8995,   10324,   11212,   11149,   11637,   11908,   12098,   12333,   12616,   12958,   13343,   13744,   14164,   14612,   15023
+c07180,Child care credit,      17,      18,      18,      18,      18,      18,      18,      18,      18,      18,      18,      18,      18,      18,      18
+c07220,Child tax credit (adjusted),     174,     171,     167,     164,     160,     155,     150,     145,     141,     136,     132,     128,     124,     121,     119
+c09600,Federal AMT liability,     224,     239,     253,     260,     270,     279,     289,     299,     310,     322,     334,     347,     359,     373,     373
+c11070,Extra child tax credit (refunded),     155,     149,     144,     140,     134,     131,     129,     127,     125,     123,     121,     119,     117,     115,     116
+c21040,Itemized deduction that is phased out,     243,     291,     315,     313,     325,     332,     337,     343,     351,     361,     372,     384,     397,     410,     411
+cmbtp,Estimate of income on (AMT) Form 6251 but not in AGI,     246,     256,     266,     274,     282,     290,     301,     311,     321,     334,     346,     358,     372,     387,     365
+e00200,"Wages, salaries, and tips for filing unit",   40070,   42046,   43574,   44700,   45954,   47217,   48331,   49374,   50524,   51822,   53207,   54629,   56099,   57639,   59503
+e00300,Taxable interest income,     642,     599,     592,     588,     601,     617,     652,     701,     761,     812,     856,     893,     925,     958,     996
+e00400,Tax-exempt interest income,     292,     277,     276,     275,     284,     294,     313,     339,     371,     398,     421,     441,     460,     477,     475
+e00600,Ordinary dividends included in AGI,    1403,    1665,    1916,    1880,    1885,    1951,    2005,    2044,    2073,    2103,    2134,    2174,    2219,    2272,    2342
+e00650,Qualified dividends included in ordinary dividends,    1031,    1221,    1403,    1373,    1375,    1422,    1461,    1486,    1505,    1524,    1544,    1572,    1603,    1640,    1687
+e00700,Taxable refunds of state and local income taxes,     221,     231,     240,     244,     251,     258,     265,     273,     281,     290,     299,     308,     317,     327,     340
+e00800,Alimony received,     101,     109,     112,     117,     123,     128,     134,     139,     144,     149,     154,     160,     166,     173,     179
+e00900,Sch C business net profit/loss for filing unit,    1813,    1908,    1983,    2029,    2092,    2128,    2163,    2198,    2242,    2296,    2358,    2424,    2493,    2566,    2654
+e01100,Capital gain distributions not reported on Sch D,       4,       5,       7,       6,       7,       7,       7,       7,       7,       7,       8,       8,       8,       8,       8
+e01200,Other net gain/loss from Form 4797,    -248,    -327,    -416,    -367,    -403,    -412,    -409,    -418,    -428,    -434,    -446,    -459,    -472,    -486,    -479
+e01400,Taxable IRA distributions,    1191,    1276,    1351,    1415,    1489,    1571,    1649,    1727,    1809,    1898,    1986,    2077,    2178,    2283,    2405
+e01500,Pensions and annuities,    6111,    6366,    6636,    6797,    6996,    7229,    7468,    7713,    7980,    8257,    8546,    8838,    9132,    9452,    9633
+e01700,Taxable pensions and annuities,    3931,    4088,    4243,    4325,    4429,    4556,    4688,    4824,    4972,    5125,    5281,    5442,    5603,    5780,    5987
+e02000,"Sch E total rental, royalty, partnership, S-corporation, etc, income/loss (includes e26270 and e27200 and p25470)",    3996,    4452,    4425,    4349,    4290,    4228,    4208,    4213,    4246,    4308,    4411,    4524,    4641,    4775,    4931
+e02100,Farm net income/loss for filing unit from Sch F,    -162,    -147,     -74,     -50,     -41,     -59,     -77,     -93,    -109,    -120,    -129,    -135,    -139,    -140,    -122
+e02300,Unemployment compensation benefits,     331,     214,     194,     150,     148,     144,     155,     182,     202,     214,     224,     232,     241,     251,     259
+e02400,Total social security benefits,    4644,    4822,    4989,    5087,    5176,    5382,    5679,    5997,    6308,    6647,    6999,    7371,    7744,    8127,    8494
+e03150,Total deductible IRA contributions,      74,      75,      78,      79,      81,      84,      86,      89,      92,      95,      98,     101,     104,     107,     116
+e03210,Student loan interest,      55,      56,      58,      59,      60,      62,      64,      66,      68,      70,      72,      74,      76,      79,      82
+e03220,Educator expenses,       7,       7,       7,       7,       7,       7,       8,       8,       8,       8,       9,       9,       9,       9,      10
+e03230,Tuition and fees from Form 8917,      36,      37,      38,      39,      40,      41,      42,      44,      45,      46,      48,      49,      50,      52,      52
+e03240,Domestic production activities from Form 8903,      40,      43,      44,      44,      45,      46,      48,      49,      51,      52,      54,      55,      57,      58,      59
+e03270,Self-employed health insurance deduction,     165,     158,     160,     161,     164,     165,     166,     168,     169,     171,     172,     173,     175,     177,     191
+e03290,Health savings account deduction from Form 8889,      18,      17,      18,      18,      18,      18,      18,      18,      19,      19,      19,      19,      19,      19,      20
+e03300,"Contributions to SEP, SIMPLE and qualified plans",     128,     131,     136,     137,     140,     143,     146,     150,     155,     160,     165,     170,     175,     181,     177
+e03400,Penalty on early withdrawal of savings,       3,       3,       3,       3,       3,       3,       3,       4,       4,       4,       4,       4,       4,       4,       4
+e03500,Alimony paid,      45,      47,      49,      49,      50,      52,      53,      55,      57,      59,      60,      63,      64,      67,      70
+e07240,Retirement savings contributions credit from Form 8880,       7,       7,       7,       7,       7,       8,       8,       8,       8,       9,       9,       9,       9,      10,      10
+e07260,Residential energy credit from Form 5695,      41,      42,      44,      45,      46,      48,      49,      51,      53,      54,      56,      58,      60,      62,      64
+e07300,Foreign tax credit from Form 1116,     127,     133,     132,     129,     127,     124,     123,     123,     124,     125,     128,     131,     135,     138,     141
+e07400,General business credit from Form 3800,      15,      15,      15,      15,      15,      14,      14,      14,      14,      15,      15,      16,      16,      16,      17
+e07600,Prior year minimum tax credit from Form 8801,       5,       6,       6,       6,       6,       6,       6,       7,       7,       7,       7,       8,       8,       8,       8
+e09700,Recapture of Investment Credit,       1,       1,       1,       1,       1,       1,       1,       2,       2,       2,       2,       2,       2,       2,       2
+e09800,Unreported payroll taxes from Form 4137 or 8919,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0
+e09900,Penalty tax on qualified retirement plans,      41,      43,      44,      45,      46,      47,      48,      49,      50,      51,      53,      54,      55,      56,      58
+e11200,Excess payroll (FICA/RRTA) tax withheld,      16,      17,      18,      18,      18,      19,      19,      20,      20,      21,      21,      22,      23,      24,      24
+e17500,Sch A: Medical and dental expenses,     908,     887,     903,     921,     953,     972,     991,    1013,    1034,    1056,    1078,    1099,    1122,    1146,    1180
+e18400,Sch A: State and local income/sales taxes,    1869,    1985,    2057,    2095,    2144,    2203,    2267,    2335,    2407,    2481,    2556,    2635,    2714,    2797,    2877
+e18500,Sch A: Real-estate taxes paid,    1256,    1313,    1364,    1393,    1429,    1473,    1517,    1563,    1614,    1665,    1718,    1772,    1828,    1887,    1972
+e19200,Sch A: Interest paid,    2048,    2004,    2096,    2156,    2229,    2311,    2396,    2486,    2583,    2681,    2782,    2888,    2996,    3114,    3287
+e19800,Sch A: Gifts to charity: cash/check contributions,     923,     966,    1003,    1024,    1050,    1078,    1111,    1146,    1183,    1222,    1259,    1300,    1342,    1386,    1445
+e20100,Sch A: Gifts to charity: other than cash/check contributions,     204,     215,     223,     228,     234,     240,     245,     253,     261,     270,     279,     287,     295,     305,     314
+e20400,Sch A: Miscellaneous deductions subject to 2% AGI limitation,     806,     837,     870,     886,     907,     935,     961,     990,    1023,    1055,    1088,    1122,    1157,    1193,    1232
+e24515,Sch D: Un-Recaptured Section 1250 Gain,     117,     165,     209,     186,     205,     210,     210,     213,     216,     222,     230,     238,     241,     248,     276
+e24518,Sch D: 28% Rate Gain or Loss,      46,      64,      84,      74,      82,      85,      86,      75,      77,      79,      82,      85,      89,      93,     101
+e26270,Sch E: Combined partnership and S-corporation net income/loss (includes k1bx14p and k1bx14s amounts and is included in e02000),    3042,    3306,    3270,    3205,    3149,    3093,    3072,    3071,    3087,    3122,    3187,    3264,    3338,    3425,    3567
+e27200,Sch E: Farm rent net income or loss (included in e02000),      39,      40,      40,      41,      41,      41,      42,      42,      43,      45,      47,      50,      51,      54,      59
+e32800,Child/dependent-care expenses for qualifying persons from Form 2441,     120,     123,     127,     129,     132,     135,     138,     141,     145,     150,     154,     158,     163,     167,     170
+e58990,Investment income elected amount from Form 4952,      19,      20,      21,      21,      22,      23,      23,      24,      25,      25,      26,      27,      27,      28,      30
+e62900,Alternative Minimum Tax foreign tax credit from Form 6251,      87,      96,     100,     102,     104,     106,     109,     112,     115,     118,     121,     125,     128,     132,     135
+e87530,Adjusted qualified lifetime learning expenses for all students,     117,     117,     122,     124,     127,     131,     135,     138,     143,     147,     152,     156,     161,     165,     171
+eitc,Federal EITC,     405,     400,     397,     388,     380,     382,     386,     391,     396,     400,     405,     409,     413,     418,     427
+elderly_dependent,1 if filing unit has an elderly dependent; otherwise 0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0
+g20500,Sch A: Gross (before 10% AGI disregard) casualty or theft loss,      27,      28,      29,      30,      30,      31,      32,      34,      35,      36,      38,      39,      40,      42,      46
+iitax,Federal income tax liability,    7720,    8881,    9610,    9665,   10120,   10389,   10598,   10834,   11115,   11451,   11828,   12219,   12626,   13059,   13443
+k1bx14p,Partner self-employment earnings/loss for taxpayer (included in e26270 total),    -232,    -264,    -260,    -247,    -235,    -225,    -225,    -228,    -232,    -240,    -250,    -257,    -270,    -276,    -174
+k1bx14s,Partner self-employment earnings/loss for spouse (included in e26270 total),      22,      22,      23,      24,      26,      27,      27,      27,      27,      25,      26,      25,      26,      28,      47
+n1821,Number of people age 18-20 years old in the filing unit,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0
+n21,Number of people 21 years old or older in the filing unit,       1,       1,       1,       1,       1,       1,       1,       1,       1,       1,       1,       1,       1,       1,       1
+nu05,Number of dependents under 5 years old,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0
+nu13,Number of dependents under 13 years old,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0
+nu18,Number of people under 18 years old in the filing unit,       1,       1,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0,       0
+p08000,Other tax credits (but not including Sch R credit),       5,       5,       5,       5,       5,       5,       6,       6,       6,       6,       6,       6,       7,       7,       7
+p22250,Sch D: Net short-term capital gains/losses,      33,      39,      38,      25,      17,      -7,     -22,     -35,     -49,     -61,     -71,     -78,     -95,    -110,     -31
+p23250,Sch D: Net long-term capital gains/losses,     195,     197,     225,     176,     148,     127,     113,      88,      55,      29,       3,     -12,     -39,     -80,     124
+p25470,Sch E: Royalty depletion and/or rental depreciation (included in e02000),     660,     716,     714,     705,     698,     692,     691,     695,     702,     713,     732,     753,     776,     801,     846
+p87521,Total tentative AmOppCredit amount for all students,     138,     140,     145,     148,     151,     156,     160,     164,     169,     174,     179,     184,     189,     194,     200
+payrolltax,Payroll taxes (ee+er) for OASDI+HI,    5690,    5904,    6087,    6209,    6425,    6606,    6769,    6920,    7081,    7262,    7457,    7660,    7868,    8087,    8385

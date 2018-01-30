@@ -1,0 +1,34 @@
+package:
+  name: taxcalc
+  version: 0.0.0
+
+build:
+  entry_points:
+    - tc = taxcalc.cli.tc:cli_tc_main
+
+requirements:
+  build:
+    - python
+    - numpy >=1.12.1
+    - pandas >=0.20.1
+    - numba
+    - toolz
+    - six
+    - bokeh >=0.12.3
+  run:
+    - python
+    - numpy >=1.12.1
+    - pandas >=0.20.1
+    - numba
+    - toolz
+    - six
+    - bokeh >=0.12.3
+
+test:
+  commands:
+    - which tc  # [unix]
+    - where tc  # [win]
+    - tc --help
+
+about:
+  home: http://www.github.com/OpenSourcePolicyCenter
