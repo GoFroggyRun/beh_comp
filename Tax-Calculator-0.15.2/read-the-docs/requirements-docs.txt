@@ -1,0 +1,12 @@
+## ReadTheDocs pip requirements file for creating a virualenv
+
+# for building the taxcalc package API
+mock  # used to mock numba dependency
+numpy
+pandas
+numba
+six
+toolz
+
+# for ReadTheDocs
+sphinx>=1.3
