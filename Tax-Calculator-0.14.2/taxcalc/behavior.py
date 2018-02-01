@@ -109,7 +109,7 @@ class Behavior(ParametersBase):
         return False
 
     @staticmethod
-    def response(calc1, calc2, trace=False):
+    def response(calc1, calc2, use_nearone=True, trace=False):
         """
         Implements TaxBrain "Partial Equilibrium Simulation" dynamic analysis.
 
@@ -184,9 +184,13 @@ class Behavior(ParametersBase):
                 sub = np.zeros(calc1.array_len)
             else:
                 # proportional change in marginal net-of-tax rates on earnings
-                nearone = 0.999999
-                mtr1 = np.where(wage_mtr1 > nearone, nearone, wage_mtr1)
-                mtr2 = np.where(wage_mtr2 > nearone, nearone, wage_mtr2)
+                if use_nearone:
+                    nearone = 0.999999
+                    mtr1 = np.where(wage_mtr1 > nearone, nearone, wage_mtr1)
+                    mtr2 = np.where(wage_mtr2 > nearone, nearone, wage_mtr2)
+                else:
+                    mtr1 = wage_mtr1
+                    mtr2 = wage_mtr2
                 pch = ((1. - mtr2) / (1. - mtr1)) - 1.
                 if calc2.behavior.BE_subinc_wrt_earnings:
                     # Note: e00200 is filing unit's wages+salaries
